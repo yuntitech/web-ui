@@ -1,0 +1,12 @@
+# dependencies
+**/node_modules
+
+# turbo
+.turbo
+
+build/**
+dist/**
+.next/**
+
+# umi
+**/.umi

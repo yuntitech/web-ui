@@ -1,0 +1,25 @@
+{
+  "name": "@yunti/web-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cross-env dumi dev",
+    "build": "cross-env dumi build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "dumi": "^1.1.40"
+  },
+  "dependencies": {
+    "classnames": "^2.3.1"
+  },
+  "peerDependencies": {
+    "antd": "4.x",
+    "react": ">=16.9.0"
+  }
+}
